@@ -120,6 +120,7 @@ Through academic and personal projects, I've gained hands-on experience designin
 | [<img src="certs/PDA0019443332398.png" width="230" />](certs/PDA0019443332398.pdf) | **Python Data Associate — DataCamp**<br/>Issued Sept 2026 · ID `PDA0019443332398`<br/>Data analysis with Python: managing, cleaning, visualizing data · Pandas<br/>Exams: PY101 (timed) + PY501P (practical business problem) |
 | [<img src="certs/DEA0018198901240.png" width="230" />](certs/DEA0018198901240.pdf) | **Data Engineer Associate — DataCamp**<br/>Issued Sept 2026 · ID `DEA0018198901240`<br/>Data cleaning · ETL · SQL · normalization · cloud pipelines · data quality<br/>Exams: DE101 (timed) + DE501P (practical SQL: extraction, joins, aggregation, validation) |
 | [<img src="certs/SQA0019633928960.png" width="230" />](certs/SQA0019633928960.pdf) | **SQL Associate — DataCamp**<br/>Issued Sept 2026 · ID `SQA0019633928960`<br/>Click the certificate to view the credential |
+| [<img src="certs/prompt-engineering-cognitive-class.png" width="230" />](certs/prompt-engineering-cognitive-class.pdf) | **Prompt Engineering for Everyone — Cognitive Class (IBM Skills Network)**<br/>Issued July 2026 · `AI0117EN`<br/>Prompt design and LLM interaction fundamentals<br/>[Verify credential](https://courses.cognitiveclass.ai/certificates/f447a067ccea4a395d461e2c2f5b3c6cc) |
 
 ---
 
