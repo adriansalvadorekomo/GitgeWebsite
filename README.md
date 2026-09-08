@@ -6,11 +6,11 @@
 </pre>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Adrian+Salvador+Ekomo;Data+Engineering+%26+BI+Student;Data+Warehousing+%C2%B7+Analytics+%C2%B7+ML+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Adrian+Salvador+Ekomo;Computer+Engineering+Student;Data+Engineering+%7C+Cloud+%26+DevOps+%7C+SAP" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Data Engineering & BI Student @ Esprit</b> — Building warehouses around the <i>questions people actually ask</i>, not around how source systems happen to store data.
+  <b>Computer Engineering Student @ Esprit | Data Engineering · Cloud & DevOps · SAP</b> — Building reliable data platforms and turning data into useful insights. Currently looking for a Junior Data Engineer opportunity.
 </p>
 
 <p align="center">
@@ -24,14 +24,14 @@
 ```sql
 -- ABOUT ME
 SELECT
-  'Data Engineer'          AS role,
-  'BI / Analytics Eng.'    AS also_role,
-  'Esprit School of Eng.'  AS school,
-  'Tunis, Tunisia'         AS location,
-  'warehouses > pipelines' AS mantra;
+  'Computer Eng. Student'        AS profile,
+  'Data Eng. | Cloud & DevOps'   AS focus,
+  'Esprit School of Eng.'        AS school,
+  'Tunis, Tunisia'               AS location,
+  'raw data > trusted decisions' AS mantra;
 ```
 
-I connect sources with **Apache Airflow** so nothing gets lost, transform data with **dbt** inside the warehouse, and build dashboards (**Power BI**, **Metabase**) that teams reach for daily. I manage ML models end-to-end with **MLflow**, keeping experiments reproducible and pipelines adaptable as needs evolve.
+Through academic and personal projects, I've gained hands-on experience designing data pipelines, data warehouses, analytics solutions, and machine learning workflows — connecting sources with **Apache Airflow**, transforming with **dbt**, and serving dashboards (**Power BI**, **Metabase**) with **MLflow**-tracked models. I also have professional experience in **DevOps** (OpenStack, Terraform, Ansible), giving me a practical understanding of infrastructure, automation, and deploying systems reliably. My focus is the journey from raw data to structured, trustworthy information for real business decisions, and I'm developing enterprise data knowledge through **SAP BW** and BI.
 
 ---
 
@@ -55,7 +55,7 @@ I connect sources with **Apache Airflow** so nothing gets lost, transform data w
   </tr>
   <tr>
     <td><b>🗄 Store</b></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/SAP_BW-learning-0FAAFF?style=flat" /></td>
   </tr>
   <tr>
     <td><b>🔁 Transform</b></td>
@@ -75,7 +75,7 @@ I connect sources with **Apache Airflow** so nothing gets lost, transform data w
   </tr>
   <tr>
     <td><b>⚙ Deploy</b></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>💻 Languages</b></td>
@@ -96,7 +96,7 @@ I connect sources with **Apache Airflow** so nothing gets lost, transform data w
 | [**Smart-ERP-DataOps**](https://github.com/adriansalvadorekomo/smart-erp-dataopts) | `FastAPI` `dbt` `Airflow` `PostgreSQL` `React` `MLflow` `RAG` | Full DataOps-driven ERP for e-commerce — 10-phase build from business model to AI-powered chat assistant. In progress. |
 | [**EventZilla BI**](https://github.com/adriansalvadorekomo/Esprit-PABI-4ERPBI6-2526-EventZella) | `FastAPI` `Talend` `Airflow` `PostgreSQL` `MLflow` `Docker` | Star-schema warehouse with 10 ML models, AI chatbot, full observability, and 11-microservice deployment. |
 | [**KORIA — GabèsEye**](https://github.com/adriansalvadorekomo/KORIA) | `Flutter` `PyTorch` `scikit-learn` `Airbyte` `FastAPI` | AI-powered environmental monitoring — satellite segmentation, sensor data sync, time-series forecasting, multilingual chatbot. H12 INNOVATION 3.0. |
-| [**HR Workforce Analytics**](#) | `Snowflake-schema` `Power BI` `ETL` | Dimensional warehouse consolidating HR data from multiple systems with self-service Power BI dashboards. |
+| [**Stage RIF — OpenStack HA Automatisation**](https://github.com/adriansalvadorekomo/Stage_ete_RIF_Automatisation) | `OpenStack` `Terraform` `Ansible` `Nginx` `Keepalived` | HA Bastion with single Floating IP + auto failover, Terraform private VMs, Ansible Nginx reverse-proxy with DuckDNS + Let's Encrypt HTTPS. |
 
 </details>
 
@@ -113,6 +113,16 @@ I connect sources with **Apache Airflow** so nothing gets lost, transform data w
 
 ---
 
+### Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/DataCamp-Python_Data_Associate-03EF62?style=flat&logo=datacamp&logoColor=black" />
+  <img src="https://img.shields.io/badge/DataCamp-Data_Engineer_Associate-03EF62?style=flat&logo=datacamp&logoColor=black" />
+  <img src="https://img.shields.io/badge/DataCamp-SQL_Associate-03EF62?style=flat&logo=datacamp&logoColor=black" />
+</p>
+
+---
+
 ### CV — Multi-Language
 
 <p>
@@ -125,7 +135,7 @@ I connect sources with **Apache Airflow** so nothing gets lost, transform data w
 ---
 
 <p align="center">
-  <i>Data Engineering & BI Student · Warehousing · Analytics Engineering · ML System Deployment</i>
+  <i>Computer Engineering Student | Data Engineering | Cloud & DevOps | SAP · Seeking Junior Data Engineer</i>
   <br />
   <sub>Built with ✦ for the data that drives decisions</sub>
 </p>
